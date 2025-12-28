@@ -11,8 +11,11 @@ To write a Python program that handles an **IndexError** when trying to access a
 3. Print the result based on whether the index access succeeds or fails.
 
 ## 🧾 Program
-Add code here
+<img width="1137" height="266" alt="Screenshot 2025-12-28 131627" src="https://github.com/user-attachments/assets/8f9f3a26-8ad5-4224-b023-248154f4e137" />
+
 
 ## Output
+<img width="736" height="170" alt="Screenshot 2025-12-28 131650" src="https://github.com/user-attachments/assets/80d40d43-0f04-4180-8b30-105608e7627f" />
 
 ## Result
+Thus the program is successfully executed.
